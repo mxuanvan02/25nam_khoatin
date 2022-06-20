@@ -83,7 +83,7 @@ WSGI_APPLICATION = 'khoa.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'khoa',
+        'NAME': 'kt',
         'USER': 'root',
         'PASSWORD': '',
         'HOST': '127.0.0.1',
